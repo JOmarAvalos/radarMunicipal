@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Radar Municipal</string>
+    <string name="btn_reporta">Reporta</string>
+    <string name="btn_tramite">Trámites</string>
+    <string name="btn_sitios">Sitios</string>
+    <string name="btn_emergencias">Emergencias</string>
 </resources>
